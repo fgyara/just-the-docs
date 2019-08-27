@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XAccount and Transaction API Profile - v3.1.2
+title: Account and Transaction API Profile - v3.1.2
 parent: Profiles
 nav_order: 2
 ---
