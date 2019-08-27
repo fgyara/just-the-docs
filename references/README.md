@@ -1,3 +1,9 @@
+---
+layout: default
+title: UI Components
+nav_order: 1
+has_children: true
+permalink: /references
 # References
 
 - [Namespaced Enumerations](Namespaced%20Enumerations.md)
