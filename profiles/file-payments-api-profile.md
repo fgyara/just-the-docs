@@ -1,6 +1,6 @@
 ---
 layout: default
-title  File Payments API Profile - v3.1.2
+title:  File Payments API Profile - v3.1.2
 parent: Profiles
 nav_order: 2
 ---
