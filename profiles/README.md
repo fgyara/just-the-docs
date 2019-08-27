@@ -1,3 +1,10 @@
+---
+layout: default
+title: Profiles
+nav_order: 1
+has_children: true
+permalink: /profiles
+---
 # Open Banking Read-Write API - Profiles
 
 - [Read/Write Data API Profile](read-write-data-api-profile.md)
